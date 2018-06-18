@@ -1,3 +1,3 @@
 ## Express / GraphQL experiment
 
-Nodejs + Express + GraphQL
+Nodejs / Express / GraphQL
